@@ -16,7 +16,7 @@ body {
 
 a, button {
 	transition: all 0.3s ease;
-	color: #FFFFFF;
+	color: #cccccc;
 }
 
 button:focus {
@@ -24,8 +24,8 @@ button:focus {
 }
 
 a:hover {
-	color: #FFFF00;
-	text-decoration: underline;
+	color: #FFFFFF;
+	text-decoration: wavy;
 }
 a:focus {
 	text-decoration: none;
